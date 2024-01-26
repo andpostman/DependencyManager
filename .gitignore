@@ -1,0 +1,17 @@
+HELP.md
+!.mvn/wrapper/maven-wrapper.jar
+**/logs
+**/*.iml
+**/meta.lock
+.idea
+target
+.project
+.classpath
+.settings
+.factorypath
+.apt_generated
+*.log
+MANIFEST.MF
+mega.lock
+**/package-lock.json
+*.tar
